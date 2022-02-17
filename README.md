@@ -7,7 +7,4 @@ some comments
 
 features
 
-adding more features
-addng
-
-addming to new b
+#index.html created
